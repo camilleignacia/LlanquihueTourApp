@@ -53,7 +53,7 @@ por tipo gastronómico.
 
 ## Autor del proyecto
 
-- **Nombre completo:** Camila Sepúlveda Marcos.
+- **Nombre:** Camila Sepúlveda Marcos.
 - **Carrera:** Analista Programador Computacional.
 
 ---
