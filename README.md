@@ -46,6 +46,7 @@ por tipo gastronómico.
 ---
 
 **Repositorio GitHub:** https://github.com/camilleignacia/LlanquihueTourApp
+
 **Fecha de entrega:** 15/06/2026
 
 ---
