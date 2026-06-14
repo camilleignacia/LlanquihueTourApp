@@ -1,4 +1,4 @@
-# Semana 4 - Desarrollo Orientado a Objetos I
+# Semana 4: Llanquihue Tour App - Desarrollo Orientado a Objetos I
 
 ---
 
