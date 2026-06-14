@@ -1,0 +1,5 @@
+Feria Gastronómica Llanquihue;Gastronómico;30000
+Tour Volcán Osorno;Cultural;60000
+Ruta Gastronómica de Cocina Chilota Tradicional;Gastronómico;35000
+Museo de Puerto Montt;Cultural;15000
+Kayak en Lago Llanquihue;Lacustre;10000
