@@ -52,7 +52,7 @@ git clone https://github.com/camilleignacia/LlanquihueTourApp.git
 
 ---
 
-## Autor del proyecto
+## Autora del proyecto
 
 - **Nombre:** Camila Sepúlveda Marcos.
 - **Carrera:** Analista Programador Computacional.
