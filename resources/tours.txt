@@ -1,5 +1,9 @@
-Feria Gastronómica Llanquihue;Gastronómico;30000
-Tour Volcán Osorno;Cultural;60000
-Ruta Gastronómica de Cocina Chilota Tradicional;Gastronómico;35000
-Museo de Puerto Montt;Cultural;15000
-Kayak en Lago Llanquihue;Lacustre;10000
+Feria Gastronómica Llanquihue;Gastronómico;30000;Llanquihue;Los Lagos
+Tour Volcán Osorno;Excursión;60000;Puerto Montt;Los Lagos
+Ruta Gastronómica de Cocina Chilota Tradicional;Gastronómico;35000;Castro;Los Lagos
+Kayak en Lago Llanquihue;Lacustre;10000;Puerto Varas;Los Lagos
+Tour Palafitos de Castro;Cultural;18000;Castro;Los Lagos
+Ruta Cervecera Artesanal;Gastronómico;32000;Puerto Montt;Los Lagos
+Paseo en Catamarán Lago Llanquihue;Lacustre;40000;Puerto Varas;Los Lagos
+Trekking Volcán Calbuco;Excursión;40000;Puerto Montt;Los Lagos
+Trekking Orillas Lago Caburgua;Excursión;40000;Pucón;Los Lagos
