@@ -5,7 +5,7 @@ import model.Tour;
 import java.util.ArrayList;
 
 /**
- * CLASE GESTORTOUR:
+ * CLASE GESTORTOURS:
  * Permite recorrer, filtrar y buscar tours dentro de la lista
  * cargada previamente por GestorDatos.
  */

@@ -1,6 +1,7 @@
 package ui;
 
 import data.GestorDatos;
+import data.GestorServicios;
 import model.Tour;
 import service.GestorTours;
 
@@ -37,6 +38,12 @@ public class Main {
         servicio.buscarPorNombre("Lago");
 
         System.out.println();
-        System.out.println("Fin de la ejecución.");
+
+        // Muestra los servicios turísticos
+        GestorServicios gestorServicios = new GestorServicios();
+        gestorServicios.mostrarServicios();
+
+        System.out.println();
+        System.out.println("Fin del sistema Llanquihue Tour App.");
     }
 }

@@ -66,7 +66,7 @@ public class GestorDatos {
 
                 // Obtiene cada dato de la línea
                 String nombre = partes[0].trim();
-                String tipo   = partes[1].trim();
+                String tipo = partes[1].trim();
                 double precio = Double.parseDouble(partes[2].trim());
                 String ciudad = partes[3].trim();
                 String region = partes[4].trim();
